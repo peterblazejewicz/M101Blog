@@ -1,2 +1,2 @@
-# N101Blog
-A place to create a Blog from N101N course when finished
+# M101Blog
+A place to create a Blog from M101N course when finished
