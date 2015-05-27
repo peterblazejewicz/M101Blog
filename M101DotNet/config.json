@@ -1,7 +1,0 @@
-{
-  "Data": {
-    "DefaultConnection": {
-      "ConnectionString": "mongodb://localhost/test"
-    }
-  }
-}
